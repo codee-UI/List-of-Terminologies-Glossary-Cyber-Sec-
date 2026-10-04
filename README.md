@@ -452,3 +452,96 @@ A type of DoS attack that simulates a TCP/IP connection and floods a server with
 ## Keywords
 
 `Cybersecurity` `Network Security` `DoS` `DDoS` `ICMP` `IP Spoofing` `Packet Sniffing` `SYN Flood` `Replay Attack` `Smurf Attack` `On-Path Attack` `Botnet`
+
+
+# Security Hardening — Terms and Definitions
+
+This glossary summarizes key concepts related to **system hardening, authentication, monitoring, vulnerability management, and operating system security**.
+
+## Baseline Configuration (Baseline Image)
+
+A documented set of specifications within a system that is used as a basis for future builds, releases, and updates.
+
+## Hardware
+
+The physical components of a computer.
+
+## Multi-Factor Authentication (MFA)
+
+A security measure that requires a user to verify their identity in two or more ways to access a system or network.
+
+## Network Log Analysis
+
+The process of examining network logs to identify events of interest.
+
+## Operating System (OS)
+
+The interface between computer hardware and the user.
+
+## Patch Update
+
+A software or operating system update that addresses security vulnerabilities within a program or product.
+
+## Penetration Testing (Pen Test)
+
+A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes.
+
+## Security Hardening
+
+The process of strengthening a system to reduce its vulnerabilities and attack surface.
+
+## Security Information and Event Management (SIEM)
+
+An application that collects and analyzes log data to monitor critical activities for an organization.
+
+## World-Writable File
+
+A file that can be altered by anyone in the world.
+
+---
+
+## Quick Reference Table
+
+| Term | Definition |
+|---|---|
+| **Baseline Configuration** | Documented system specifications used as a reference for future builds, releases, and updates |
+| **Hardware** | Physical components of a computer |
+| **MFA** | Requires two or more methods of identity verification |
+| **Network Log Analysis** | Examines network logs to identify events of interest |
+| **Operating System** | Interface between computer hardware and the user |
+| **Patch Update** | Update that addresses security vulnerabilities |
+| **Penetration Testing** | Simulated attack used to identify vulnerabilities |
+| **Security Hardening** | Strengthens a system by reducing vulnerabilities and attack surface |
+| **SIEM** | Collects and analyzes logs to monitor important organizational activity |
+| **World-Writable File** | File that can be modified by anyone |
+
+---
+
+## Key Categories
+
+### System Security
+- Baseline Configuration
+- Security Hardening
+- Patch Update
+- Operating System
+- Hardware
+
+### Authentication
+- Multi-Factor Authentication (MFA)
+
+### Monitoring and Detection
+- Network Log Analysis
+- Security Information and Event Management (SIEM)
+
+### Security Testing
+- Penetration Testing
+
+### File Permissions
+- World-Writable File
+
+---
+
+## Keywords
+
+`Cybersecurity` `Security Hardening` `Baseline Configuration` `MFA` `SIEM` `Network Log Analysis` `Patch Management` `Penetration Testing` `Operating System` `File Permissions`
+
